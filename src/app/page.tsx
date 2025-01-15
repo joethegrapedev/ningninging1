@@ -10,7 +10,7 @@ export default function Home() {
           <p>
             <br/>
 
-            <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+            <br/><br/><br/><br/><br/><br/><br />
             Hi ning, my previous website failed as you know so i just created another website from scratch HEHEHEHEH. I bet there are easier ways to create websites other than just coding it but why not do this just for fun :D
           </p>
           <br />
