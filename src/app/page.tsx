@@ -1,5 +1,5 @@
-import Image from "next/image";
-import Photo from "./PhotoGallery";
+
+
 import PhotoGallery from "./PhotoGallery";
 export default function Home() {
   return (

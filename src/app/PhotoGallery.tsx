@@ -12,23 +12,23 @@ interface Photo {
 
   const photos: Photo[] = [
     {
-      src: "/images/image 1.jpeg",
-      alt: "Image 1",
+      src: "/images/image1.jpeg",
+      alt: "Image1",
       caption: "us in suits"
     },
     {
-      src: "/images/image 2.jpeg",
-      alt: "Image 2",
+      src: "/images/image2.jpeg",
+      alt: "Image2",
       caption: "us eating food"
     },
     {
-      src: "/images/image 3.jpeg",
-      alt: "Image 3",
+      src: "/images/image3.jpeg",
+      alt: "Image3",
       caption: "us in suits again"
     },
     {
-      src: "/images/image 4.jpeg",
-      alt: "Image 4",
+      src: "/images/image4.jpeg",
+      alt: "Image4",
       caption: "HEHEHEHEHEHEHEHEHEHEH "
     }
   ]
